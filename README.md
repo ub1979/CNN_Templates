@@ -103,4 +103,9 @@ Contributions to improve the scripts or add new features are welcome. Please fee
 
 ## License
 
-This project is open-source and available under the MIT License.
+Original project-owner material is designated **CC BY-NC-ND 4.0** for
+noncommercial use, with education and research as the intended audience.
+Attribution is required; sharing adapted versions is not licensed.
+See [LICENSE](LICENSE) and [licensing scope and exceptions](LICENSING.md).
+Third-party licenses and earlier grants remain in effect.
+This release is source-available, not OSI open source.
